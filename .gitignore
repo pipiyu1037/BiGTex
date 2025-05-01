@@ -1,0 +1,4 @@
+sub.sbatch
+train.out
+_pycache_/
+dataset/
